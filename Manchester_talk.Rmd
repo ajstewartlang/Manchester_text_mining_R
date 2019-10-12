@@ -15,7 +15,7 @@ output:
 ---
 class: center, middle
 
-# Text Mining in R
+# Text Mining and Twitter Scraping in R
 
 Andrew Stewart<br><br>
 Division of Neuroscience and Experimental Psychology<br><br>
@@ -530,7 +530,7 @@ timeline_tweets %>%
 # That was a fully reproducible talk (just add my accent)
 
 All slides and R code used to generate these slides available 
-[here](https://github.com/ajstewartlang/Chester_text_mining_R)
+[here](https://github.com/ajstewartlang/Manchester_text_mining_R)
 
 <br />
 
